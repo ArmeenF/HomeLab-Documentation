@@ -54,6 +54,8 @@ Looking for a quick reference guide for Markdown syntax? Check out this cheat sh
 ## Hardware Notes
 
  + Hardware:
+   + Mac mini (Late 2014)
+     + [Spec sheet](https://support.apple.com/en-us/111931)
    + ASUS Chromebox 3
 
      + [Spec sheet](https://www.asus.com/us/site/assets/commercial/datasheet/Chromebox_3_Datasheets_Updated.pdf)
